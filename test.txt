@@ -1,0 +1,59 @@
+Qu'est-ce que l'apprentissage automatique ?
+L'apprentissage automatique (ou machine learning) est une branche de l'intelligence artificielle qui permet aux systèmes d'apprendre à partir de données sans être explicitement programmés.
+
+Comment fonctionne un réseau de neurones ?
+Un réseau de neurones est un modèle inspiré du cerveau humain, composé de couches de neurones artificiels. Chaque neurone reçoit des entrées, leur applique une transformation mathématique, et transmet le résultat à la couche suivante.
+
+Quelle est la capitale de la France ?
+La capitale de la France est Paris, qui est également la ville la plus peuplée du pays.
+
+Citez trois langages de programmation populaires.
+Trois langages de programmation populaires sont Python, JavaScript et Java. Python est souvent utilisé pour l'analyse de données et l'IA, tandis que JavaScript domine le développement web.
+
+Qu'est-ce que le réchauffement climatique ?
+Le réchauffement climatique désigne l'augmentation des températures moyennes à la surface de la Terre, principalement causée par les émissions de gaz à effet de serre comme le CO₂.
+
+Comment convertir des degrés Celsius en Fahrenheit ?
+Pour convertir des degrés Celsius en Fahrenheit, utilisez la formule : F = (C × 9/5) + 32. Par exemple, 20°C équivaut à 68°F.
+
+Qui a écrit "Les Misérables" ?
+"Les Misérables" est un roman écrit par Victor Hugo, publié en 1862. Il raconte l'histoire de Jean Valjean, un ancien forçat, dans la France du XIXe siècle.
+
+Qu'est-ce qu'une blockchain ?
+Une blockchain est une technologie de stockage et de transmission d'informations sous forme de blocs liés entre eux. Elle est sécurisée par cryptographie et est souvent utilisée pour les cryptomonnaies comme le Bitcoin.
+
+Comment calculer l'aire d'un cercle ?
+L'aire A d'un cercle se calcule avec la formule A = π × r², où r est le rayon du cercle. Par exemple, pour un cercle de rayon 5 cm, l'aire est environ 78,5 cm².
+
+Quelle est la différence entre IA faible et IA forte ?
+L'IA faible (ou étroite) est conçue pour accomplir une tâche spécifique (ex: reconnaissance vocale), tandis que l'IA forte (ou générale) aurait une intelligence comparable à celle de l'humain, capable de raisonner sur n'importe quel sujet.
+
+Qu'est-ce qu'un algorithme ?
+Un algorithme est une suite finie d'instructions permettant de résoudre un problème ou d'accomplir une tâche. Les algorithmes sont au cœur de l'informatique et des mathématiques.
+
+Comment fonctionne un moteur de recherche ?
+Un moteur de recherche comme Google utilise des robots (crawlers) pour explorer le web, indexer les pages, puis classe les résultats en fonction de leur pertinence par rapport à la requête de l'utilisateur.
+
+Quelle est la vitesse de la lumière ?
+La vitesse de la lumière dans le vide est d'environ 299 792 kilomètres par seconde. C'est une constante fondamentale en physique, notée "c".
+
+Qu'est-ce que le Big Data ?
+Le Big Data désigne des ensembles de données si volumineux et complexes qu'ils nécessitent des outils spécifiques pour être traités. Il est souvent caractérisé par les "3V" : Volume, Vélocité et Variété.
+
+Comment apprendre une langue étrangère ?
+Pour apprendre une langue étrangère, il est recommandé de pratiquer régulièrement (écoute, lecture, conversation), d'utiliser des applications comme Duolingo, et de s'immerger dans la culture associée (films, musique).
+
+Qu'est-ce qu'un virus informatique ?
+Un virus informatique est un programme malveillant conçu pour se propager d'un ordinateur à un autre et causer des dommages, comme corrompre des fichiers ou voler des données.
+
+Quelle est la formule de l'eau ?
+La formule chimique de l'eau est H₂O, ce qui signifie qu'une molécule d'eau est composée de deux atomes d'hydrogène (H) et d'un atome d'oxygène (O).
+
+Comment optimiser un site web pour le SEO ?
+Pour optimiser un site web pour le référencement naturel (SEO), il faut utiliser des mots-clés pertinents, améliorer la vitesse de chargement, créer des liens internes/externes de qualité, et produire un contenu original et utile.
+
+Qu'est-ce que la photosynthèse ?
+La photosynthèse est un processus biologique par lequel les plantes, les algues et certaines bactéries transforment l'énergie lumineuse en énergie chimique (glucose) en utilisant le dioxyde de carbone et l'eau.
+
+Pourquoi le ciel est-il bleu ?
+Le ciel apparaît bleu en raison de la diffusion de Rayleigh : les molécules de l'atmosphère diffusent davantage les courtes longueurs d'onde (bleu) que les longues (rouge), surtout lorsque le soleil est haut dans le ciel.
