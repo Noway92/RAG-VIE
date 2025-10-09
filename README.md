@@ -46,6 +46,6 @@ It leverages **OpenAI’s API** to enhance or summarize the collected data, enab
 export OPENAI_API_KEY="your_api_key"
 
 
-##  Following Tasks
+##  Next Tasks
 
 Use a Chroma database rather that .npz files for data storage.
