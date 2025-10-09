@@ -48,4 +48,4 @@ export OPENAI_API_KEY="your_api_key"
 
 ##  Following Tasks
 
-Use a chroma database instead of using .npz files to keep the data.
+Use a Chroma database rather that .npz files for data storage.
