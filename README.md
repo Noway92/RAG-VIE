@@ -41,7 +41,7 @@ It leverages **OpenAI’s API** to enhance or summarize the collected data, enab
 
 1. **Install dependencies:**
    ```bash
-   pip install openai requests numpy
+   pip install openai requests numpy chromadb
 
 export OPENAI_API_KEY="your_api_key"
 
