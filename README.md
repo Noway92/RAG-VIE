@@ -18,6 +18,32 @@ It leverages **OpenAI’s API** to enhance or summarize the collected data, enab
 
 - **OpenAI Integration:**  
   Uses the OpenAI API to process or summarize job offer data — part of the RAG (Retrieval-Augmented Generation) pipeline.
+  
+---
+
+## 🏗️ Architecture Overview
+
+### 1. **Data Retrieval Layer**
+- **Civiweb API Integration**: Scripts (`BDD.py`, `Last_Refresh.py`) fetch job offers via JSON POST requests.
+- **Pagination Handling**: Ensures all available offers are retrieved, even across multiple pages.
+
+### 2. **Data Processing Layer**
+- **Data Structuring**: Offers are parsed, filtered, and stored in a structured format (currently `.npz` files).
+- **Embeddings Generation**: Job offer data is transformed into vector embeddings for semantic search (see `vie_embeddings.npz`).
+
+### 3. **Storage Layer**
+- **Current Storage**: Embeddings and metadata are stored in `.npz` files (e.g., `vie_embeddings.npz`).
+- **Future Storage**: Migration planned to **ChromaDB** for efficient vector storage and retrieval.
+
+### 4. **Retrieval-Augmented Generation (RAG) Layer**
+- **OpenAI Integration**: Uses embeddings to retrieve relevant job offers and augment responses via OpenAI’s API.
+- **Semantic Search**: Enables querying job offers based on meaning, not just keywords.
+
+### 5. **Utility Scripts**
+- **Cache Management**: `_pycache_` and `.gitignore` ensure clean project maintenance.
+- **Configuration**: `RAG.ipynb` and `requirements.txt` provide setup and usage guidelines.
+
+---
 
 ---
 
