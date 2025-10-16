@@ -21,7 +21,7 @@ It leverages **OpenAI’s API** to enhance or summarize the collected data, enab
   
 ---
 
-## 🏗️ Document Overview
+## 📄 Document Overview
 
 ### **Data Retrieval Layer**
 - **Civiweb API Integration**: Scripts (`BDD.py`, `Last_Refresh.py`) fetch job offers via JSON POST requests.
