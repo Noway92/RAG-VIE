@@ -1,5 +1,6 @@
 from datetime import datetime
 
+
 def get_last_refresh_date():
     """
     Récupère la date du dernier rafraîchissement depuis le fichier Last_refresh
