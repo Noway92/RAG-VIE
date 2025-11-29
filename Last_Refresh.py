@@ -8,7 +8,7 @@ def get_last_refresh_date():
     try:
         with open('Last_refresh', 'r') as f:
             last_refresh_str = f.read().strip()
-            return datetime.fromisoformat(last_refresh_str)
+            return datetime.fromisoformat(last_refresh_str).replace(tzinfo=None)
     except FileNotFoundError:
         print("⚠️ Fichier Last_refresh non trouvé, utilisation de la date minimale")
         return datetime.min  # Date très ancienne pour tout récupérer
